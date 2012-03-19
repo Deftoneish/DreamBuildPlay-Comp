@@ -1,0 +1,2 @@
+c:\users\john\documents\visual studio 2010\Projects\Olisgay\Olisgay\Olisgay\obj\x86\Debug\Olisgay.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2010\Projects\Olisgay\Olisgay\Olisgay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
